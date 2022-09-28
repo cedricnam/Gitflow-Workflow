@@ -1,6 +1,6 @@
 
 ```mermaid
-%%{init: {'logLevel': 'debug', 'theme': 'Retro', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchOrder': 2,
+%%{init: {'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchOrder': 2,
             'rotateCommitLabel': true}} }%%
 
       gitGraph
